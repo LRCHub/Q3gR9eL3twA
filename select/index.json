@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "愛の星",
+  "base_artist": "水樹奈々",
+  "createdAt": "2026-02-10T09:02:13.970817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の星 - Two Hearts -",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/01_愛の星_-_Two_Hearts_-_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の_愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/02_愛の_愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛の♥愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/03_愛の♥愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛の♥愛の星",
+      "artist": "the brilliant green",
+      "has_synced": false,
+      "path": "select/04_愛の♥愛の星_the_brilliant_green.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛の星",
+      "artist": "樹海",
+      "has_synced": true,
+      "path": "select/05_愛の星_樹海.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛の＿愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/06_愛の_愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛の星",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/07_愛の星_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛の_愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/08_愛の_愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛の.愛の星",
+      "artist": "ザ・ブリリアントグリーン",
+      "has_synced": true,
+      "path": "select/09_愛の.愛の星_ザ・ブリリアントグリーン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛の星-two hearts-",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/10_愛の星-two_hearts-_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛の星",
+      "artist": "樹海",
+      "has_synced": true,
+      "path": "select/11_愛の星_樹海.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛の＿愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/12_愛の_愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛の♥愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/13_愛の♥愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛の♥愛の星",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/14_愛の♥愛の星_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ai no ♥ Ai no Hoshi (愛の♥愛の星)",
+      "artist": "Tommy february6",
+      "has_synced": true,
+      "path": "select/15_Ai_no_♥_Ai_no_Hoshi_(愛の♥愛の星)_Tommy_february6.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "愛の星 -two hearts- (NANA ACOUSTIC ONLINE Ver.)",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/16_愛の星_-two_hearts-_(NANA_ACOUSTIC_ONLINE_Ver.)_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "愛の星 -two hearts- (NANA ACOUSTIC ONLINE Ver.)",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/17_愛の星_-two_hearts-_(NANA_ACOUSTIC_ONLINE_Ver.)_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の星",
+      "artist": "水樹 奈々",
+      "has_synced": false,
+      "path": "select/pl_01_愛の星_水樹_奈々.txt"
+    }
+  ]
+}
